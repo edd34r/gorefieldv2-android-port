@@ -1,0 +1,8 @@
+ignoreNote = true
+lowPriority = true
+hitCausesMiss = true
+hitHealth = 0.5
+missHealth = 0.5
+noteSplashData.texture = "noteSplashes/noteSplashes-none"
+texture = "mechanics/Punch Note"
+rgbShader.enabled = false

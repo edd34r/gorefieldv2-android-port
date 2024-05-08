@@ -1,0 +1,1 @@
+noteSplashData.texture = "noteSplashes/noteSplashes-none"

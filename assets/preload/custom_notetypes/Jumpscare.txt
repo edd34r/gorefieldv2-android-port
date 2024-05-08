@@ -1,0 +1,6 @@
+ignoreNote = true
+lowPriority = true
+hitCausesMiss = true
+noteSplashData.texture = "noteSplashes/noteSplashes-none"
+texture = "mechanics/Scream Note"
+rgbShader.enabled = false
