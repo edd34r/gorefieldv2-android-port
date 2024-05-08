@@ -1,0 +1,3 @@
+Value 1: On/Off to make Hud Zoom Out
+
+(You can change the zoom if you want and the event is in a some songs in data)

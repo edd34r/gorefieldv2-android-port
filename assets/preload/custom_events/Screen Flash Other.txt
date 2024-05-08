@@ -1,0 +1,5 @@
+Value 1: Speed
+
+Value 2: Color
+
+This is like Screen Flash but it covers the entire screen

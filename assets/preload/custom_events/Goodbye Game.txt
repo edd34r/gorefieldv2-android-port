@@ -1,0 +1,4 @@
+is like Goodbye HUD but in the game
+
+value 1: opacity
+value 2: speed
